@@ -1,0 +1,24 @@
+System call uwrr() returns 7247
+PID 7247 w(14) Elapsed time 10 iterations 2222113
+Module uwrr returns 0
+System call uwrr() returns 7246
+PID 7246 w(2) Elapsed time 10 iterations 2260738
+Module uwrr returns 0
+System call uwrr() returns 7245
+PID 7245 w(4) Elapsed time 10 iterations 2397138
+Module uwrr returns 0
+System call uwrr() returns 7244
+PID 7244 w(12) Elapsed time 10 iterations 2354359
+Module uwrr returns 0
+System call uwrr() returns 7243
+PID 7243 w(6) Elapsed time 10 iterations 2353995
+Module uwrr returns 0
+System call uwrr() returns 7242
+PID 7242 w(16) Elapsed time 10 iterations 2365124
+Module uwrr returns 0
+System call uwrr() returns 7241
+PID 7241 w(10) Elapsed time 10 iterations 2392595
+Module uwrr returns 0
+System call uwrr() returns 7240
+PID 7240 w(8) Elapsed time 10 iterations 2106383
+Module uwrr returns 0

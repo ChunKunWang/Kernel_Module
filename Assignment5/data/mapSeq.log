@@ -1,0 +1,13 @@
+Mar  6 23:03:24 os-class kernel: [  745.662575] pflog: created new debugfs directory and file
+Mar  6 23:03:30 os-class kernel: [  751.209753] pflog: index 4 NEW FAULT vma_info f6a0cdc0
+Mar  6 23:03:30 os-class kernel: [  751.209754] pflog: MM f690e140 PAGE 750997 PGOFF 69 PFN 215193 TIME 333
+Mar  6 23:03:30 os-class kernel: [  751.209762] pflog: index 3 NEW FAULT vma_info f6a0caa0
+Mar  6 23:03:30 os-class kernel: [  751.209764] pflog: MM f690e140 PAGE 739627 PGOFF 0 PFN 475977 TIME 464
+Mar  6 23:03:30 os-class kernel: [  751.315868] pflog: index 4 NEW FAULT vma_info f6a0cdc0
+Mar  6 23:03:30 os-class kernel: [  751.315871] pflog: MM f690e140 PAGE 751000 PGOFF 72 PFN 215196 TIME 1164
+Mar  6 23:03:30 os-class kernel: [  751.316224] pflog: index 4 NEW FAULT vma_info f6a0cdc0
+Mar  6 23:03:30 os-class kernel: [  751.316226] pflog: MM f690e140 PAGE 751147 PGOFF 219 PFN 215392 TIME 509
+Mar  6 23:03:30 os-class kernel: [  751.316237] pflog: index 4 NEW FAULT vma_info f6a0cdc0
+Mar  6 23:03:30 os-class kernel: [  751.316238] pflog: MM f690e140 PAGE 751041 PGOFF 113 PFN 226852 TIME 387
+Mar  6 23:03:30 os-class kernel: [  751.316242] pflog: index 4 NEW FAULT vma_info f6a0cdc0
+Mar  6 23:03:30 os-class kernel: [  751.316243] pflog: MM f690e140 PAGE 751109 PGOFF 181 PFN 215066 TIME 325
